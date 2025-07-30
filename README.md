@@ -1,2 +1,2 @@
-# PhonePay_Project
-Product Management Project for Phonepay company
+# PhonePe_Project
+Product Management Project for Phonepe company
